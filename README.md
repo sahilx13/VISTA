@@ -18,3 +18,4 @@ provided search input, we want to accomplish the same for videos. We have implem
 using existing Faster RCNN implementation for detecting relevant object frames, a custom CNN trained on custom superhero dataset for classifying those relevant objects (Person class in this case) to the target superhero and then tracking the detected object using SORT. A figure explaining the project is
 provided below: 
 
+![Approach](https://github.com/sahilx13/VISTA/blob/master/METHOD.jpg)
